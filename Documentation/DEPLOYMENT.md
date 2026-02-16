@@ -38,7 +38,7 @@ git commit -m "Initial commit: Real-time collaborative code editor"
 
 ```bash
 # Add remote repository (replace YOUR-USERNAME)
-git remote add origin https://github.com/YOUR-USERNAME/collabcode.git
+git remote add origin https://agarawala.github.io/collabcode
 
 # Push to GitHub
 git branch -M main
@@ -248,14 +248,14 @@ For GitHub Pages:
 Share your live demo:
 
 ```
-🚀 CollabCode - Real-time Collaborative Editor
-https://YOUR-USERNAME.github.io/collabcode
+ CollabCode - Real-time Collaborative Editor
+https://agarawala.github.io/collabcode
 
 Features:
-✅ Real-time collaboration
-✅ CRDT synchronization
-✅ No backend required
-✅ Works on GitHub Pages!
+ Real-time collaboration
+ CRDT synchronization
+ No backend required
+ Works on GitHub Pages!
 
 Try it: Open in multiple tabs and type simultaneously!
 ```
@@ -297,12 +297,12 @@ Before sharing your deployment:
 
 ## Next Steps
 
-1. ⭐ Star the repository to track it
-2. 🍴 Fork to create your own version
-3. 🔗 Share the link on Twitter, LinkedIn, etc.
-4. 📝 Write a blog post explaining the CRDT implementation
-5. 🎥 Record a demo video showing concurrent editing
-6. 🏆 Submit to hackathons or coding showcases
+1.  Star the repository to track it
+2.  Fork to create your own version
+3.  Share the link on Twitter, LinkedIn, etc.
+4.  Write a blog post explaining the CRDT implementation
+5.  Record a demo video showing concurrent editing
+6.  Submit to hackathons or coding showcases
 
 ---
 
@@ -311,7 +311,3 @@ Before sharing your deployment:
 - Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf
 
 **Questions?** Create an issue in the repository!
-
----
-
-Happy Deploying! 🚀

@@ -10,7 +10,7 @@ The interesting part isn't the editor itself – it's that **multiple people can
 
 ## Try it
 
-**Live demo:** https://YOUR-USERNAME.github.io/collabcode/
+**Live demo:** https://agarawala.github.io/collabcode
 
 Open it, then open the same link in another tab. Type in one tab, watch it appear in the other. Try typing in both at once – everything stays in sync.
 
@@ -26,7 +26,7 @@ You'll need a web server because `file://` URLs don't support the localStorage e
 
 ```bash
 # Clone it
-git clone https://github.com/YOUR-USERNAME/collabcode.git
+git clone https://agarawala.github.io/collabcode
 cd collabcode
 
 # Start any web server
@@ -85,7 +85,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions, but the short vers
 git init
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/YOUR-USERNAME/collabcode.git
+git remote add origin https://agarawala.github.io/collabcode
 git push -u origin main
 ```
 
