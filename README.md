@@ -10,7 +10,7 @@ The interesting part isn't the editor itself – it's that **multiple people can
 
 ## Try it
 
-**Live demo:** https://agarawala.github.io/collabcode
+**Live demo:** https://aeron-gh.github.io/collabcode/
 
 Open it, then open the same link in another tab. Type in one tab, watch it appear in the other. Try typing in both at once – everything stays in sync.
 
